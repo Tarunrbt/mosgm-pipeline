@@ -1,0 +1,15 @@
+{
+  "model": "MOSGM",
+  "alpha": 0.1,
+  "python_version": "3.12.12 (main, Jan 22 2026, 23:09:36) [Clang 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f0",
+  "platform": "Linux-5.15.167-android13-8-o-gb83c53f8085f-aarch64-with-libc",
+  "timestamp_utc": "2026-02-23T18:28:54.339649",
+  "prediction": [
+    0.0,
+    0.275,
+    0.55,
+    0.8250000000000001,
+    1.1
+  ],
+  "contract_hash": "2e34d31ca3302105a3f8603ed40ccafd8018236238a2944d026c3129087877db"
+}
